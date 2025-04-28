@@ -1,0 +1,1001 @@
+viaje_id,hora_inicio,estacion_origen,estacion_destino,duracion_min
+1,18:32,Tláhuac,Polanco,10
+2,06:38,Polanco,Tláhuac,56
+3,08:24,Santa Fe,Tláhuac,46
+4,06:20,Reforma Norte,Tláhuac,32
+5,08:32,Polanco,Reforma Norte,55
+6,08:35,Coyoacán,Condesa,43
+7,06:06,Tláhuac,Centro Histórico,14
+8,18:36,Condesa,Universidad,38
+9,06:34,Chapultepec,Insurgentes Sur,6
+10,19:09,Polanco,Coyoacán,60
+11,19:25,Polanco,Tláhuac,9
+12,20:00,Chapultepec,Santa Fe,5
+13,17:16,Condesa,Insurgentes Sur,24
+14,08:02,Polanco,Condesa,8
+15,08:54,Condesa,Polanco,34
+16,18:19,Insurgentes Sur,Chapultepec,31
+17,06:57,Tláhuac,Centro Histórico,19
+18,17:06,Santa Fe,Condesa,21
+19,08:52,Insurgentes Sur,Universidad,5
+20,19:58,Universidad,Tláhuac,52
+21,06:39,Reforma Norte,Santa Fe,57
+22,06:40,Insurgentes Sur,Chapultepec,34
+23,08:20,Centro Histórico,Chapultepec,55
+24,17:25,Santa Fe,Tláhuac,58
+25,06:41,Tláhuac,Reforma Norte,57
+26,17:06,Reforma Norte,Tláhuac,50
+27,19:50,Reforma Norte,Universidad,56
+28,06:25,Reforma Norte,Coyoacán,50
+29,19:45,Tláhuac,Chapultepec,37
+30,18:40,Condesa,Chapultepec,57
+31,19:25,Condesa,Reforma Norte,35
+32,07:21,Santa Fe,Tláhuac,34
+33,06:21,Insurgentes Sur,Polanco,32
+34,06:29,Centro Histórico,Condesa,25
+35,07:12,Centro Histórico,Tláhuac,17
+36,17:38,Insurgentes Sur,Universidad,47
+37,17:46,Insurgentes Sur,Centro Histórico,18
+38,19:23,Universidad,Coyoacán,54
+39,06:20,Centro Histórico,Condesa,45
+40,06:50,Universidad,Centro Histórico,52
+41,08:42,Coyoacán,Tláhuac,16
+42,06:44,Santa Fe,Condesa,59
+43,06:29,Insurgentes Sur,Centro Histórico,10
+44,06:25,Universidad,Condesa,29
+45,08:14,Polanco,Reforma Norte,44
+46,06:21,Chapultepec,Reforma Norte,13
+47,07:07,Condesa,Tláhuac,7
+48,08:30,Coyoacán,Tláhuac,22
+49,17:03,Centro Histórico,Condesa,42
+50,19:35,Insurgentes Sur,Santa Fe,35
+51,19:06,Coyoacán,Universidad,12
+52,06:42,Insurgentes Sur,Tláhuac,30
+53,19:56,Condesa,Chapultepec,33
+54,06:11,Chapultepec,Condesa,33
+55,17:11,Condesa,Polanco,15
+56,17:58,Condesa,Centro Histórico,45
+57,06:24,Insurgentes Sur,Centro Histórico,16
+58,19:32,Condesa,Polanco,35
+59,08:57,Tláhuac,Santa Fe,20
+60,19:09,Condesa,Coyoacán,39
+61,08:48,Insurgentes Sur,Centro Histórico,46
+62,08:49,Coyoacán,Tláhuac,31
+63,07:02,Chapultepec,Tláhuac,39
+64,17:42,Insurgentes Sur,Chapultepec,31
+65,08:52,Chapultepec,Universidad,54
+66,19:25,Centro Histórico,Polanco,45
+67,07:31,Condesa,Universidad,50
+68,19:24,Polanco,Coyoacán,25
+69,17:18,Polanco,Tláhuac,26
+70,19:44,Chapultepec,Polanco,36
+71,08:20,Santa Fe,Universidad,5
+72,07:55,Condesa,Polanco,47
+73,07:24,Reforma Norte,Chapultepec,52
+74,07:31,Universidad,Insurgentes Sur,30
+75,19:37,Chapultepec,Reforma Norte,8
+76,06:17,Insurgentes Sur,Condesa,24
+77,19:07,Centro Histórico,Chapultepec,19
+78,07:44,Santa Fe,Insurgentes Sur,45
+79,08:10,Condesa,Coyoacán,58
+80,06:29,Chapultepec,Tláhuac,49
+81,19:53,Centro Histórico,Insurgentes Sur,53
+82,08:00,Santa Fe,Tláhuac,40
+83,18:14,Condesa,Chapultepec,15
+84,08:27,Coyoacán,Chapultepec,21
+85,08:00,Polanco,Centro Histórico,38
+86,08:37,Insurgentes Sur,Polanco,29
+87,19:05,Tláhuac,Polanco,52
+88,08:17,Centro Histórico,Insurgentes Sur,13
+89,06:18,Santa Fe,Universidad,49
+90,07:07,Tláhuac,Insurgentes Sur,10
+91,18:41,Centro Histórico,Reforma Norte,5
+92,18:56,Polanco,Condesa,47
+93,17:31,Insurgentes Sur,Condesa,10
+94,06:33,Universidad,Tláhuac,32
+95,19:40,Tláhuac,Universidad,27
+96,06:14,Reforma Norte,Tláhuac,60
+97,08:01,Condesa,Universidad,54
+98,08:30,Polanco,Universidad,60
+99,18:27,Tláhuac,Reforma Norte,25
+100,19:44,Coyoacán,Insurgentes Sur,41
+101,19:29,Tláhuac,Centro Histórico,19
+102,19:51,Condesa,Polanco,33
+103,17:02,Universidad,Tláhuac,38
+104,06:57,Coyoacán,Reforma Norte,27
+105,08:15,Chapultepec,Universidad,21
+106,18:42,Chapultepec,Insurgentes Sur,15
+107,19:52,Universidad,Coyoacán,20
+108,18:43,Centro Histórico,Reforma Norte,52
+109,18:07,Coyoacán,Condesa,52
+110,06:29,Centro Histórico,Condesa,49
+111,07:14,Reforma Norte,Insurgentes Sur,36
+112,18:14,Coyoacán,Reforma Norte,42
+113,08:03,Chapultepec,Universidad,13
+114,08:40,Insurgentes Sur,Tláhuac,39
+115,06:02,Insurgentes Sur,Universidad,41
+116,06:24,Polanco,Reforma Norte,43
+117,07:59,Condesa,Universidad,36
+118,17:52,Santa Fe,Insurgentes Sur,14
+119,08:43,Universidad,Reforma Norte,39
+120,18:08,Condesa,Universidad,7
+121,17:00,Universidad,Chapultepec,52
+122,18:01,Polanco,Santa Fe,19
+123,07:20,Condesa,Centro Histórico,56
+124,08:02,Tláhuac,Reforma Norte,10
+125,06:28,Tláhuac,Reforma Norte,51
+126,19:05,Condesa,Reforma Norte,26
+127,19:30,Insurgentes Sur,Condesa,15
+128,08:34,Universidad,Condesa,34
+129,08:58,Condesa,Polanco,26
+130,18:04,Santa Fe,Coyoacán,54
+131,17:13,Chapultepec,Centro Histórico,54
+132,17:15,Chapultepec,Tláhuac,15
+133,19:03,Tláhuac,Coyoacán,37
+134,17:39,Universidad,Coyoacán,49
+135,19:04,Universidad,Coyoacán,10
+136,08:13,Polanco,Tláhuac,35
+137,07:47,Insurgentes Sur,Centro Histórico,32
+138,06:45,Insurgentes Sur,Centro Histórico,45
+139,06:19,Insurgentes Sur,Coyoacán,48
+140,06:50,Polanco,Coyoacán,6
+141,08:01,Reforma Norte,Polanco,43
+142,06:23,Condesa,Chapultepec,57
+143,17:06,Chapultepec,Insurgentes Sur,17
+144,19:36,Centro Histórico,Condesa,13
+145,06:43,Chapultepec,Coyoacán,60
+146,18:10,Tláhuac,Polanco,44
+147,19:35,Reforma Norte,Condesa,35
+148,09:00,Coyoacán,Reforma Norte,18
+149,07:11,Tláhuac,Chapultepec,51
+150,18:17,Universidad,Santa Fe,51
+151,18:18,Centro Histórico,Coyoacán,54
+152,17:26,Centro Histórico,Chapultepec,17
+153,07:36,Santa Fe,Universidad,60
+154,06:32,Centro Histórico,Tláhuac,57
+155,06:48,Universidad,Coyoacán,33
+156,19:13,Tláhuac,Insurgentes Sur,16
+157,19:11,Santa Fe,Centro Histórico,5
+158,17:29,Insurgentes Sur,Polanco,31
+159,07:24,Centro Histórico,Chapultepec,40
+160,08:15,Santa Fe,Coyoacán,54
+161,06:23,Polanco,Insurgentes Sur,18
+162,17:47,Centro Histórico,Universidad,40
+163,07:38,Coyoacán,Santa Fe,16
+164,07:04,Insurgentes Sur,Polanco,15
+165,18:02,Reforma Norte,Coyoacán,58
+166,06:55,Universidad,Insurgentes Sur,12
+167,08:17,Chapultepec,Polanco,9
+168,18:54,Polanco,Reforma Norte,42
+169,07:13,Santa Fe,Universidad,56
+170,18:14,Chapultepec,Reforma Norte,13
+171,19:23,Universidad,Reforma Norte,18
+172,19:44,Condesa,Santa Fe,36
+173,07:47,Chapultepec,Polanco,39
+174,17:43,Universidad,Chapultepec,33
+175,07:12,Universidad,Reforma Norte,42
+176,07:38,Reforma Norte,Universidad,41
+177,06:45,Chapultepec,Insurgentes Sur,28
+178,18:40,Insurgentes Sur,Polanco,6
+179,08:28,Coyoacán,Centro Histórico,52
+180,06:05,Reforma Norte,Polanco,14
+181,07:33,Centro Histórico,Condesa,30
+182,07:00,Condesa,Insurgentes Sur,14
+183,06:51,Tláhuac,Reforma Norte,28
+184,06:15,Chapultepec,Tláhuac,5
+185,08:43,Condesa,Tláhuac,42
+186,19:39,Tláhuac,Universidad,32
+187,07:07,Insurgentes Sur,Universidad,27
+188,08:31,Polanco,Reforma Norte,18
+189,19:26,Coyoacán,Chapultepec,37
+190,06:18,Chapultepec,Tláhuac,8
+191,07:26,Chapultepec,Insurgentes Sur,47
+192,06:59,Universidad,Tláhuac,29
+193,18:23,Reforma Norte,Universidad,29
+194,17:28,Universidad,Centro Histórico,59
+195,08:38,Chapultepec,Coyoacán,5
+196,06:23,Santa Fe,Coyoacán,28
+197,18:51,Universidad,Condesa,18
+198,17:00,Tláhuac,Chapultepec,58
+199,18:19,Universidad,Coyoacán,14
+200,07:22,Insurgentes Sur,Centro Histórico,12
+201,07:01,Tláhuac,Universidad,27
+202,08:02,Coyoacán,Insurgentes Sur,19
+203,19:13,Condesa,Universidad,44
+204,08:27,Reforma Norte,Universidad,39
+205,06:36,Centro Histórico,Coyoacán,54
+206,08:25,Chapultepec,Condesa,33
+207,08:29,Santa Fe,Coyoacán,51
+208,17:44,Coyoacán,Chapultepec,41
+209,17:28,Insurgentes Sur,Coyoacán,5
+210,19:07,Insurgentes Sur,Centro Histórico,60
+211,18:52,Polanco,Insurgentes Sur,32
+212,17:34,Coyoacán,Insurgentes Sur,22
+213,17:07,Centro Histórico,Chapultepec,9
+214,08:47,Centro Histórico,Coyoacán,44
+215,07:24,Reforma Norte,Centro Histórico,46
+216,06:56,Condesa,Universidad,49
+217,19:38,Tláhuac,Universidad,55
+218,19:15,Polanco,Coyoacán,29
+219,07:04,Reforma Norte,Insurgentes Sur,57
+220,07:06,Santa Fe,Reforma Norte,27
+221,17:27,Chapultepec,Universidad,30
+222,08:56,Universidad,Insurgentes Sur,60
+223,07:49,Condesa,Universidad,46
+224,06:03,Tláhuac,Reforma Norte,58
+225,06:21,Centro Histórico,Reforma Norte,57
+226,19:42,Condesa,Centro Histórico,43
+227,06:38,Chapultepec,Reforma Norte,53
+228,17:33,Chapultepec,Tláhuac,27
+229,08:41,Insurgentes Sur,Tláhuac,53
+230,18:25,Tláhuac,Reforma Norte,10
+231,06:38,Insurgentes Sur,Coyoacán,42
+232,18:26,Santa Fe,Condesa,40
+233,06:12,Universidad,Reforma Norte,58
+234,08:20,Centro Histórico,Universidad,10
+235,17:38,Centro Histórico,Chapultepec,42
+236,18:58,Insurgentes Sur,Chapultepec,11
+237,07:14,Reforma Norte,Centro Histórico,16
+238,18:03,Santa Fe,Insurgentes Sur,10
+239,08:03,Reforma Norte,Coyoacán,38
+240,19:02,Chapultepec,Centro Histórico,57
+241,19:26,Condesa,Chapultepec,31
+242,19:05,Reforma Norte,Universidad,6
+243,19:54,Condesa,Santa Fe,44
+244,19:28,Insurgentes Sur,Reforma Norte,15
+245,06:15,Reforma Norte,Insurgentes Sur,29
+246,18:49,Tláhuac,Polanco,22
+247,18:51,Santa Fe,Reforma Norte,10
+248,18:26,Centro Histórico,Tláhuac,39
+249,17:58,Reforma Norte,Santa Fe,25
+250,17:37,Chapultepec,Universidad,58
+251,08:28,Polanco,Chapultepec,9
+252,19:00,Centro Histórico,Insurgentes Sur,49
+253,17:51,Chapultepec,Santa Fe,51
+254,19:10,Condesa,Insurgentes Sur,5
+255,07:23,Polanco,Reforma Norte,45
+256,17:55,Santa Fe,Centro Histórico,30
+257,19:55,Centro Histórico,Universidad,57
+258,17:06,Chapultepec,Condesa,10
+259,19:23,Universidad,Tláhuac,32
+260,18:05,Chapultepec,Coyoacán,11
+261,19:38,Santa Fe,Centro Histórico,28
+262,07:01,Insurgentes Sur,Tláhuac,55
+263,17:18,Chapultepec,Insurgentes Sur,46
+264,18:54,Santa Fe,Coyoacán,57
+265,07:52,Centro Histórico,Insurgentes Sur,31
+266,17:37,Reforma Norte,Tláhuac,10
+267,18:06,Insurgentes Sur,Universidad,33
+268,08:32,Condesa,Reforma Norte,38
+269,07:59,Centro Histórico,Polanco,37
+270,18:13,Polanco,Chapultepec,50
+271,18:00,Chapultepec,Reforma Norte,42
+272,17:03,Condesa,Tláhuac,47
+273,08:33,Tláhuac,Centro Histórico,14
+274,07:18,Condesa,Santa Fe,19
+275,17:40,Centro Histórico,Coyoacán,59
+276,06:27,Tláhuac,Polanco,29
+277,06:00,Condesa,Polanco,50
+278,06:50,Universidad,Condesa,44
+279,18:36,Polanco,Reforma Norte,20
+280,07:58,Centro Histórico,Tláhuac,30
+281,06:27,Reforma Norte,Condesa,49
+282,06:11,Chapultepec,Tláhuac,18
+283,17:41,Insurgentes Sur,Universidad,50
+284,19:04,Centro Histórico,Universidad,7
+285,06:55,Santa Fe,Coyoacán,6
+286,18:20,Polanco,Santa Fe,24
+287,08:27,Universidad,Centro Histórico,23
+288,06:59,Insurgentes Sur,Santa Fe,59
+289,08:51,Condesa,Universidad,5
+290,08:07,Coyoacán,Chapultepec,58
+291,17:12,Coyoacán,Tláhuac,52
+292,18:18,Universidad,Insurgentes Sur,23
+293,06:21,Tláhuac,Centro Histórico,37
+294,06:31,Condesa,Centro Histórico,47
+295,07:25,Santa Fe,Condesa,5
+296,19:22,Universidad,Chapultepec,19
+297,17:19,Universidad,Reforma Norte,13
+298,07:47,Insurgentes Sur,Centro Histórico,14
+299,07:38,Santa Fe,Coyoacán,27
+300,17:13,Insurgentes Sur,Condesa,58
+301,17:25,Santa Fe,Tláhuac,19
+302,19:31,Insurgentes Sur,Coyoacán,48
+303,07:04,Polanco,Tláhuac,28
+304,06:37,Chapultepec,Reforma Norte,50
+305,19:45,Santa Fe,Universidad,13
+306,19:21,Insurgentes Sur,Universidad,24
+307,06:21,Reforma Norte,Coyoacán,13
+308,07:09,Universidad,Santa Fe,20
+309,06:26,Tláhuac,Chapultepec,27
+310,07:56,Tláhuac,Reforma Norte,27
+311,08:20,Coyoacán,Chapultepec,52
+312,18:25,Reforma Norte,Coyoacán,51
+313,18:38,Coyoacán,Insurgentes Sur,20
+314,17:47,Condesa,Tláhuac,27
+315,06:31,Tláhuac,Coyoacán,46
+316,19:44,Santa Fe,Coyoacán,21
+317,19:35,Tláhuac,Condesa,41
+318,18:44,Reforma Norte,Centro Histórico,42
+319,06:20,Reforma Norte,Tláhuac,23
+320,17:05,Tláhuac,Coyoacán,45
+321,19:03,Condesa,Coyoacán,26
+322,07:38,Condesa,Coyoacán,5
+323,07:22,Tláhuac,Chapultepec,31
+324,18:23,Tláhuac,Reforma Norte,41
+325,19:28,Condesa,Reforma Norte,11
+326,08:32,Santa Fe,Centro Histórico,57
+327,19:44,Centro Histórico,Santa Fe,35
+328,08:41,Coyoacán,Polanco,26
+329,07:20,Santa Fe,Condesa,36
+330,19:20,Polanco,Centro Histórico,32
+331,19:32,Universidad,Insurgentes Sur,56
+332,19:56,Reforma Norte,Polanco,42
+333,18:47,Universidad,Reforma Norte,36
+334,07:08,Centro Histórico,Polanco,27
+335,19:16,Condesa,Polanco,37
+336,07:43,Insurgentes Sur,Polanco,6
+337,07:44,Tláhuac,Universidad,22
+338,18:46,Reforma Norte,Tláhuac,47
+339,06:50,Chapultepec,Centro Histórico,40
+340,17:06,Santa Fe,Condesa,54
+341,17:57,Insurgentes Sur,Centro Histórico,46
+342,08:55,Centro Histórico,Coyoacán,49
+343,17:02,Insurgentes Sur,Polanco,13
+344,19:47,Universidad,Santa Fe,40
+345,19:05,Chapultepec,Coyoacán,31
+346,17:09,Centro Histórico,Santa Fe,12
+347,18:40,Polanco,Universidad,52
+348,06:15,Chapultepec,Reforma Norte,48
+349,06:55,Centro Histórico,Santa Fe,42
+350,07:27,Insurgentes Sur,Reforma Norte,53
+351,19:31,Reforma Norte,Tláhuac,11
+352,08:13,Santa Fe,Insurgentes Sur,60
+353,18:39,Polanco,Tláhuac,16
+354,19:40,Centro Histórico,Universidad,33
+355,18:10,Coyoacán,Santa Fe,37
+356,07:25,Santa Fe,Chapultepec,28
+357,07:02,Polanco,Insurgentes Sur,28
+358,07:57,Condesa,Tláhuac,51
+359,09:00,Condesa,Insurgentes Sur,19
+360,06:43,Polanco,Reforma Norte,27
+361,06:40,Coyoacán,Tláhuac,30
+362,18:24,Insurgentes Sur,Coyoacán,53
+363,06:57,Polanco,Reforma Norte,39
+364,06:20,Santa Fe,Insurgentes Sur,25
+365,07:18,Tláhuac,Chapultepec,29
+366,19:57,Universidad,Insurgentes Sur,19
+367,17:13,Reforma Norte,Universidad,29
+368,08:10,Coyoacán,Tláhuac,49
+369,08:10,Reforma Norte,Coyoacán,26
+370,07:11,Condesa,Reforma Norte,11
+371,06:34,Reforma Norte,Insurgentes Sur,15
+372,06:50,Chapultepec,Santa Fe,39
+373,17:40,Insurgentes Sur,Centro Histórico,33
+374,08:11,Universidad,Chapultepec,22
+375,17:51,Condesa,Polanco,15
+376,08:16,Insurgentes Sur,Santa Fe,13
+377,18:04,Condesa,Polanco,25
+378,19:39,Tláhuac,Santa Fe,23
+379,19:39,Centro Histórico,Chapultepec,51
+380,07:04,Centro Histórico,Polanco,45
+381,08:05,Tláhuac,Centro Histórico,56
+382,19:21,Centro Histórico,Reforma Norte,18
+383,06:31,Reforma Norte,Coyoacán,20
+384,19:38,Centro Histórico,Polanco,12
+385,06:45,Polanco,Tláhuac,21
+386,08:59,Santa Fe,Insurgentes Sur,11
+387,17:48,Tláhuac,Universidad,56
+388,18:50,Chapultepec,Coyoacán,51
+389,08:49,Santa Fe,Reforma Norte,41
+390,19:55,Coyoacán,Polanco,46
+391,09:00,Tláhuac,Condesa,35
+392,17:32,Insurgentes Sur,Coyoacán,46
+393,07:28,Centro Histórico,Polanco,19
+394,08:57,Insurgentes Sur,Santa Fe,24
+395,17:50,Universidad,Centro Histórico,9
+396,19:04,Universidad,Centro Histórico,9
+397,17:30,Reforma Norte,Condesa,7
+398,19:33,Polanco,Reforma Norte,26
+399,06:46,Santa Fe,Chapultepec,41
+400,06:48,Chapultepec,Tláhuac,43
+401,18:25,Coyoacán,Universidad,57
+402,06:09,Condesa,Polanco,31
+403,08:51,Tláhuac,Chapultepec,50
+404,08:57,Insurgentes Sur,Chapultepec,26
+405,19:44,Santa Fe,Coyoacán,5
+406,18:51,Santa Fe,Polanco,5
+407,18:30,Tláhuac,Condesa,35
+408,06:36,Santa Fe,Polanco,59
+409,08:24,Universidad,Insurgentes Sur,34
+410,06:21,Coyoacán,Santa Fe,13
+411,18:54,Reforma Norte,Tláhuac,39
+412,19:18,Centro Histórico,Insurgentes Sur,14
+413,06:04,Insurgentes Sur,Centro Histórico,39
+414,19:56,Tláhuac,Polanco,19
+415,18:28,Insurgentes Sur,Condesa,27
+416,07:16,Tláhuac,Santa Fe,55
+417,07:45,Polanco,Santa Fe,21
+418,19:37,Tláhuac,Chapultepec,57
+419,07:14,Polanco,Reforma Norte,25
+420,08:23,Chapultepec,Santa Fe,39
+421,19:06,Universidad,Tláhuac,56
+422,08:10,Universidad,Condesa,55
+423,06:23,Chapultepec,Insurgentes Sur,39
+424,17:13,Centro Histórico,Condesa,40
+425,18:35,Universidad,Reforma Norte,36
+426,19:26,Insurgentes Sur,Chapultepec,26
+427,19:55,Universidad,Centro Histórico,56
+428,17:20,Centro Histórico,Universidad,49
+429,19:12,Santa Fe,Tláhuac,8
+430,07:17,Centro Histórico,Coyoacán,30
+431,08:03,Chapultepec,Centro Histórico,41
+432,06:44,Condesa,Santa Fe,22
+433,06:09,Centro Histórico,Tláhuac,30
+434,18:21,Tláhuac,Polanco,36
+435,06:20,Centro Histórico,Tláhuac,7
+436,08:23,Condesa,Insurgentes Sur,60
+437,08:49,Centro Histórico,Condesa,42
+438,07:53,Insurgentes Sur,Universidad,33
+439,19:10,Reforma Norte,Centro Histórico,49
+440,07:01,Chapultepec,Coyoacán,57
+441,17:40,Reforma Norte,Insurgentes Sur,55
+442,06:02,Coyoacán,Centro Histórico,24
+443,17:59,Polanco,Santa Fe,30
+444,06:53,Coyoacán,Santa Fe,10
+445,06:52,Centro Histórico,Santa Fe,35
+446,08:40,Polanco,Centro Histórico,40
+447,18:25,Universidad,Chapultepec,39
+448,17:11,Universidad,Coyoacán,58
+449,06:33,Santa Fe,Centro Histórico,53
+450,18:01,Coyoacán,Insurgentes Sur,13
+451,07:08,Reforma Norte,Chapultepec,49
+452,19:03,Reforma Norte,Centro Histórico,56
+453,07:16,Centro Histórico,Tláhuac,60
+454,18:57,Universidad,Coyoacán,20
+455,17:20,Polanco,Reforma Norte,37
+456,17:23,Tláhuac,Santa Fe,56
+457,08:35,Universidad,Reforma Norte,27
+458,06:05,Centro Histórico,Insurgentes Sur,13
+459,08:49,Condesa,Tláhuac,25
+460,06:52,Reforma Norte,Tláhuac,58
+461,17:15,Chapultepec,Santa Fe,26
+462,06:38,Condesa,Insurgentes Sur,28
+463,06:09,Reforma Norte,Insurgentes Sur,43
+464,17:47,Tláhuac,Coyoacán,60
+465,06:35,Chapultepec,Polanco,37
+466,08:38,Chapultepec,Coyoacán,40
+467,08:58,Tláhuac,Universidad,42
+468,06:39,Chapultepec,Polanco,46
+469,06:50,Santa Fe,Insurgentes Sur,21
+470,08:46,Coyoacán,Universidad,10
+471,06:18,Reforma Norte,Polanco,32
+472,08:55,Polanco,Condesa,38
+473,19:17,Condesa,Reforma Norte,36
+474,19:16,Polanco,Condesa,58
+475,06:40,Universidad,Polanco,16
+476,08:39,Tláhuac,Polanco,39
+477,19:12,Insurgentes Sur,Reforma Norte,58
+478,08:49,Tláhuac,Condesa,56
+479,18:31,Reforma Norte,Santa Fe,31
+480,17:25,Polanco,Centro Histórico,31
+481,17:18,Condesa,Chapultepec,34
+482,19:19,Coyoacán,Centro Histórico,17
+483,19:33,Condesa,Centro Histórico,18
+484,07:20,Santa Fe,Reforma Norte,6
+485,17:47,Coyoacán,Insurgentes Sur,52
+486,06:58,Chapultepec,Coyoacán,23
+487,19:46,Condesa,Coyoacán,17
+488,08:21,Polanco,Coyoacán,26
+489,07:41,Tláhuac,Chapultepec,48
+490,17:22,Universidad,Polanco,24
+491,08:12,Insurgentes Sur,Universidad,52
+492,19:23,Chapultepec,Reforma Norte,16
+493,07:20,Polanco,Reforma Norte,26
+494,18:55,Insurgentes Sur,Coyoacán,18
+495,08:35,Tláhuac,Chapultepec,7
+496,19:52,Tláhuac,Santa Fe,10
+497,17:29,Chapultepec,Reforma Norte,56
+498,06:10,Reforma Norte,Polanco,37
+499,18:16,Condesa,Santa Fe,36
+500,06:04,Polanco,Chapultepec,50
+501,06:46,Santa Fe,Condesa,54
+502,18:50,Universidad,Condesa,49
+503,07:09,Chapultepec,Condesa,16
+504,19:23,Centro Histórico,Condesa,11
+505,19:03,Tláhuac,Universidad,16
+506,18:30,Insurgentes Sur,Coyoacán,12
+507,19:41,Reforma Norte,Insurgentes Sur,7
+508,06:56,Tláhuac,Chapultepec,45
+509,17:59,Chapultepec,Santa Fe,38
+510,06:21,Universidad,Reforma Norte,23
+511,08:14,Coyoacán,Universidad,50
+512,07:56,Reforma Norte,Coyoacán,29
+513,07:15,Coyoacán,Centro Histórico,10
+514,08:04,Universidad,Tláhuac,56
+515,08:11,Chapultepec,Coyoacán,5
+516,17:20,Chapultepec,Universidad,20
+517,17:17,Coyoacán,Tláhuac,26
+518,17:55,Centro Histórico,Reforma Norte,45
+519,07:49,Condesa,Universidad,9
+520,07:31,Condesa,Centro Histórico,53
+521,07:32,Tláhuac,Insurgentes Sur,49
+522,06:32,Tláhuac,Centro Histórico,58
+523,18:50,Coyoacán,Condesa,25
+524,18:18,Santa Fe,Universidad,11
+525,19:35,Santa Fe,Tláhuac,38
+526,19:27,Reforma Norte,Insurgentes Sur,33
+527,18:30,Polanco,Universidad,45
+528,07:08,Tláhuac,Santa Fe,28
+529,18:36,Condesa,Santa Fe,21
+530,06:45,Santa Fe,Insurgentes Sur,33
+531,19:57,Santa Fe,Tláhuac,47
+532,19:23,Polanco,Chapultepec,35
+533,07:46,Tláhuac,Centro Histórico,58
+534,07:11,Reforma Norte,Universidad,60
+535,18:23,Santa Fe,Reforma Norte,12
+536,07:14,Tláhuac,Coyoacán,17
+537,18:30,Insurgentes Sur,Chapultepec,28
+538,06:30,Insurgentes Sur,Santa Fe,31
+539,17:50,Condesa,Insurgentes Sur,28
+540,19:51,Centro Histórico,Santa Fe,54
+541,06:13,Centro Histórico,Coyoacán,57
+542,08:08,Universidad,Reforma Norte,55
+543,18:14,Santa Fe,Centro Histórico,52
+544,07:02,Tláhuac,Condesa,22
+545,17:00,Polanco,Centro Histórico,17
+546,18:25,Condesa,Reforma Norte,27
+547,08:49,Santa Fe,Reforma Norte,59
+548,17:01,Tláhuac,Santa Fe,54
+549,06:14,Chapultepec,Condesa,40
+550,18:46,Chapultepec,Santa Fe,34
+551,19:54,Tláhuac,Santa Fe,45
+552,06:57,Reforma Norte,Centro Histórico,16
+553,08:07,Chapultepec,Santa Fe,51
+554,06:52,Chapultepec,Tláhuac,54
+555,18:30,Condesa,Reforma Norte,25
+556,08:40,Polanco,Santa Fe,32
+557,07:45,Insurgentes Sur,Universidad,40
+558,17:45,Condesa,Reforma Norte,16
+559,07:04,Centro Histórico,Tláhuac,22
+560,06:19,Condesa,Reforma Norte,23
+561,17:53,Reforma Norte,Insurgentes Sur,24
+562,17:55,Santa Fe,Polanco,11
+563,18:40,Polanco,Santa Fe,58
+564,19:14,Condesa,Chapultepec,16
+565,08:06,Chapultepec,Santa Fe,35
+566,08:02,Centro Histórico,Universidad,12
+567,07:19,Condesa,Coyoacán,44
+568,18:05,Santa Fe,Coyoacán,18
+569,18:47,Universidad,Chapultepec,60
+570,19:09,Centro Histórico,Tláhuac,22
+571,07:16,Centro Histórico,Santa Fe,7
+572,18:27,Tláhuac,Universidad,20
+573,06:48,Centro Histórico,Coyoacán,9
+574,07:01,Santa Fe,Universidad,15
+575,07:54,Reforma Norte,Condesa,35
+576,18:04,Universidad,Coyoacán,27
+577,17:13,Universidad,Santa Fe,40
+578,18:51,Coyoacán,Santa Fe,49
+579,17:33,Centro Histórico,Universidad,19
+580,07:45,Tláhuac,Chapultepec,27
+581,17:04,Reforma Norte,Tláhuac,36
+582,17:22,Tláhuac,Chapultepec,15
+583,07:46,Centro Histórico,Insurgentes Sur,52
+584,07:08,Santa Fe,Centro Histórico,18
+585,18:30,Santa Fe,Polanco,13
+586,07:07,Tláhuac,Reforma Norte,12
+587,19:56,Tláhuac,Reforma Norte,53
+588,17:22,Tláhuac,Universidad,12
+589,17:18,Chapultepec,Condesa,17
+590,18:33,Reforma Norte,Insurgentes Sur,8
+591,08:45,Santa Fe,Tláhuac,12
+592,08:30,Polanco,Centro Histórico,54
+593,18:37,Insurgentes Sur,Condesa,57
+594,17:46,Insurgentes Sur,Centro Histórico,24
+595,18:48,Coyoacán,Centro Histórico,13
+596,19:29,Coyoacán,Condesa,18
+597,07:50,Coyoacán,Universidad,14
+598,08:13,Tláhuac,Coyoacán,37
+599,08:40,Santa Fe,Centro Histórico,46
+600,08:12,Polanco,Universidad,9
+601,07:46,Coyoacán,Chapultepec,45
+602,06:32,Insurgentes Sur,Coyoacán,22
+603,08:21,Tláhuac,Universidad,38
+604,19:02,Reforma Norte,Coyoacán,52
+605,07:06,Coyoacán,Condesa,47
+606,07:40,Coyoacán,Polanco,15
+607,17:07,Polanco,Coyoacán,15
+608,06:47,Condesa,Coyoacán,40
+609,06:01,Santa Fe,Reforma Norte,20
+610,17:16,Polanco,Tláhuac,11
+611,19:37,Insurgentes Sur,Centro Histórico,12
+612,17:59,Coyoacán,Tláhuac,48
+613,07:13,Chapultepec,Universidad,33
+614,07:51,Chapultepec,Coyoacán,52
+615,06:45,Insurgentes Sur,Centro Histórico,56
+616,06:57,Insurgentes Sur,Centro Histórico,49
+617,17:44,Tláhuac,Universidad,49
+618,19:07,Santa Fe,Reforma Norte,9
+619,06:52,Santa Fe,Insurgentes Sur,19
+620,08:58,Tláhuac,Condesa,30
+621,18:36,Insurgentes Sur,Coyoacán,32
+622,07:49,Chapultepec,Tláhuac,51
+623,06:20,Reforma Norte,Chapultepec,57
+624,18:13,Chapultepec,Santa Fe,6
+625,08:38,Reforma Norte,Polanco,37
+626,07:03,Insurgentes Sur,Coyoacán,25
+627,06:29,Centro Histórico,Polanco,31
+628,18:26,Insurgentes Sur,Coyoacán,55
+629,17:56,Insurgentes Sur,Polanco,58
+630,08:48,Coyoacán,Santa Fe,28
+631,08:19,Chapultepec,Centro Histórico,35
+632,19:32,Polanco,Santa Fe,37
+633,06:01,Centro Histórico,Condesa,36
+634,19:09,Santa Fe,Insurgentes Sur,36
+635,06:12,Centro Histórico,Insurgentes Sur,60
+636,18:33,Condesa,Insurgentes Sur,23
+637,19:05,Condesa,Polanco,38
+638,19:18,Insurgentes Sur,Chapultepec,12
+639,17:59,Reforma Norte,Universidad,28
+640,18:21,Chapultepec,Universidad,6
+641,08:44,Tláhuac,Reforma Norte,42
+642,17:34,Universidad,Condesa,46
+643,18:38,Polanco,Universidad,20
+644,17:03,Condesa,Insurgentes Sur,55
+645,06:46,Santa Fe,Universidad,16
+646,06:57,Chapultepec,Universidad,53
+647,08:14,Insurgentes Sur,Santa Fe,19
+648,18:59,Reforma Norte,Polanco,40
+649,06:36,Condesa,Insurgentes Sur,54
+650,08:10,Tláhuac,Condesa,43
+651,17:24,Reforma Norte,Tláhuac,53
+652,08:38,Centro Histórico,Condesa,56
+653,08:57,Centro Histórico,Coyoacán,45
+654,08:15,Santa Fe,Universidad,48
+655,07:03,Chapultepec,Coyoacán,60
+656,09:00,Coyoacán,Tláhuac,51
+657,08:42,Universidad,Insurgentes Sur,6
+658,07:45,Centro Histórico,Tláhuac,52
+659,06:23,Reforma Norte,Condesa,7
+660,17:42,Chapultepec,Polanco,27
+661,18:06,Coyoacán,Santa Fe,12
+662,19:15,Coyoacán,Condesa,39
+663,06:22,Reforma Norte,Polanco,14
+664,08:23,Reforma Norte,Polanco,41
+665,07:06,Coyoacán,Polanco,52
+666,08:35,Polanco,Condesa,38
+667,18:51,Reforma Norte,Universidad,54
+668,07:13,Coyoacán,Insurgentes Sur,30
+669,18:14,Chapultepec,Reforma Norte,58
+670,07:18,Polanco,Tláhuac,17
+671,07:42,Reforma Norte,Centro Histórico,55
+672,06:29,Coyoacán,Universidad,24
+673,19:12,Chapultepec,Santa Fe,38
+674,18:44,Tláhuac,Condesa,37
+675,07:23,Universidad,Coyoacán,55
+676,19:07,Insurgentes Sur,Polanco,39
+677,17:00,Condesa,Coyoacán,18
+678,06:42,Centro Histórico,Condesa,28
+679,17:01,Insurgentes Sur,Reforma Norte,24
+680,08:58,Polanco,Coyoacán,28
+681,19:35,Polanco,Insurgentes Sur,9
+682,08:51,Reforma Norte,Insurgentes Sur,37
+683,18:58,Tláhuac,Reforma Norte,20
+684,19:28,Insurgentes Sur,Condesa,34
+685,19:51,Universidad,Santa Fe,56
+686,07:17,Polanco,Chapultepec,52
+687,07:36,Polanco,Tláhuac,11
+688,07:13,Tláhuac,Universidad,39
+689,17:21,Universidad,Chapultepec,55
+690,19:34,Chapultepec,Coyoacán,27
+691,08:29,Insurgentes Sur,Reforma Norte,42
+692,08:18,Santa Fe,Reforma Norte,9
+693,19:25,Centro Histórico,Polanco,18
+694,19:00,Centro Histórico,Tláhuac,30
+695,19:34,Coyoacán,Condesa,6
+696,06:16,Coyoacán,Condesa,38
+697,19:11,Santa Fe,Universidad,42
+698,06:44,Insurgentes Sur,Condesa,26
+699,06:08,Condesa,Tláhuac,45
+700,07:30,Reforma Norte,Chapultepec,10
+701,08:48,Insurgentes Sur,Polanco,43
+702,07:51,Reforma Norte,Insurgentes Sur,35
+703,06:43,Universidad,Santa Fe,15
+704,08:28,Santa Fe,Centro Histórico,38
+705,08:53,Centro Histórico,Polanco,36
+706,07:27,Centro Histórico,Coyoacán,55
+707,06:49,Insurgentes Sur,Centro Histórico,60
+708,18:17,Tláhuac,Polanco,17
+709,08:22,Coyoacán,Insurgentes Sur,45
+710,06:08,Tláhuac,Polanco,60
+711,17:00,Polanco,Chapultepec,52
+712,06:38,Polanco,Chapultepec,37
+713,17:38,Coyoacán,Tláhuac,25
+714,07:47,Coyoacán,Tláhuac,34
+715,06:11,Santa Fe,Condesa,54
+716,17:36,Santa Fe,Reforma Norte,19
+717,17:19,Santa Fe,Universidad,28
+718,08:23,Santa Fe,Chapultepec,53
+719,19:30,Chapultepec,Condesa,22
+720,06:49,Polanco,Insurgentes Sur,57
+721,17:46,Polanco,Santa Fe,46
+722,08:22,Centro Histórico,Chapultepec,33
+723,06:54,Insurgentes Sur,Condesa,16
+724,08:35,Centro Histórico,Coyoacán,31
+725,07:12,Santa Fe,Centro Histórico,47
+726,17:27,Condesa,Tláhuac,47
+727,07:00,Reforma Norte,Condesa,17
+728,19:26,Tláhuac,Reforma Norte,45
+729,19:52,Centro Histórico,Tláhuac,37
+730,18:49,Chapultepec,Condesa,7
+731,07:23,Polanco,Tláhuac,58
+732,19:40,Centro Histórico,Polanco,49
+733,08:27,Condesa,Coyoacán,54
+734,08:12,Chapultepec,Coyoacán,17
+735,17:01,Santa Fe,Coyoacán,34
+736,17:43,Universidad,Polanco,33
+737,18:27,Chapultepec,Universidad,21
+738,17:30,Insurgentes Sur,Condesa,26
+739,19:22,Tláhuac,Universidad,60
+740,17:49,Universidad,Polanco,52
+741,19:38,Reforma Norte,Chapultepec,13
+742,18:48,Polanco,Chapultepec,56
+743,19:05,Chapultepec,Coyoacán,9
+744,19:13,Tláhuac,Condesa,57
+745,18:14,Insurgentes Sur,Tláhuac,42
+746,06:33,Tláhuac,Santa Fe,40
+747,06:29,Centro Histórico,Polanco,44
+748,08:19,Condesa,Santa Fe,59
+749,06:32,Reforma Norte,Centro Histórico,41
+750,17:04,Polanco,Reforma Norte,40
+751,06:38,Coyoacán,Condesa,15
+752,19:28,Centro Histórico,Tláhuac,13
+753,18:17,Centro Histórico,Universidad,37
+754,06:20,Universidad,Centro Histórico,10
+755,06:48,Coyoacán,Universidad,59
+756,07:12,Universidad,Tláhuac,21
+757,19:00,Santa Fe,Condesa,53
+758,18:32,Santa Fe,Insurgentes Sur,7
+759,19:35,Condesa,Chapultepec,36
+760,06:53,Chapultepec,Tláhuac,41
+761,07:42,Chapultepec,Reforma Norte,11
+762,07:19,Centro Histórico,Chapultepec,20
+763,06:46,Tláhuac,Coyoacán,52
+764,17:23,Chapultepec,Reforma Norte,17
+765,19:24,Coyoacán,Tláhuac,31
+766,18:22,Coyoacán,Condesa,19
+767,18:55,Tláhuac,Reforma Norte,29
+768,06:18,Polanco,Universidad,14
+769,07:56,Reforma Norte,Polanco,13
+770,06:18,Centro Histórico,Reforma Norte,37
+771,06:49,Tláhuac,Chapultepec,6
+772,18:11,Santa Fe,Reforma Norte,29
+773,17:35,Santa Fe,Centro Histórico,39
+774,17:10,Tláhuac,Universidad,22
+775,08:11,Chapultepec,Polanco,39
+776,17:37,Coyoacán,Polanco,34
+777,07:05,Tláhuac,Reforma Norte,50
+778,18:41,Santa Fe,Reforma Norte,17
+779,06:31,Coyoacán,Polanco,12
+780,19:03,Universidad,Reforma Norte,8
+781,19:40,Condesa,Insurgentes Sur,37
+782,07:59,Universidad,Polanco,15
+783,07:25,Santa Fe,Insurgentes Sur,43
+784,06:12,Reforma Norte,Polanco,20
+785,17:52,Chapultepec,Tláhuac,23
+786,07:32,Universidad,Tláhuac,42
+787,18:16,Reforma Norte,Coyoacán,39
+788,18:52,Polanco,Insurgentes Sur,8
+789,17:01,Santa Fe,Tláhuac,57
+790,06:33,Condesa,Universidad,5
+791,18:31,Chapultepec,Insurgentes Sur,34
+792,18:08,Polanco,Chapultepec,32
+793,07:24,Tláhuac,Santa Fe,31
+794,19:17,Condesa,Coyoacán,48
+795,18:33,Universidad,Reforma Norte,30
+796,08:26,Insurgentes Sur,Santa Fe,32
+797,06:31,Tláhuac,Reforma Norte,43
+798,17:04,Insurgentes Sur,Santa Fe,60
+799,06:03,Centro Histórico,Coyoacán,42
+800,08:31,Insurgentes Sur,Santa Fe,6
+801,07:25,Reforma Norte,Chapultepec,33
+802,06:04,Universidad,Santa Fe,47
+803,08:16,Tláhuac,Polanco,25
+804,17:57,Tláhuac,Centro Histórico,52
+805,07:20,Coyoacán,Tláhuac,30
+806,07:28,Insurgentes Sur,Universidad,18
+807,08:32,Universidad,Reforma Norte,24
+808,08:53,Coyoacán,Reforma Norte,5
+809,07:43,Tláhuac,Condesa,40
+810,08:39,Tláhuac,Polanco,58
+811,18:36,Polanco,Reforma Norte,11
+812,06:20,Centro Histórico,Universidad,26
+813,18:27,Tláhuac,Chapultepec,9
+814,17:19,Condesa,Universidad,22
+815,19:11,Insurgentes Sur,Polanco,5
+816,06:55,Insurgentes Sur,Polanco,46
+817,08:57,Reforma Norte,Insurgentes Sur,57
+818,08:38,Condesa,Reforma Norte,25
+819,18:09,Chapultepec,Polanco,9
+820,08:16,Condesa,Chapultepec,22
+821,18:04,Condesa,Tláhuac,33
+822,17:13,Centro Histórico,Tláhuac,41
+823,06:46,Insurgentes Sur,Universidad,51
+824,06:47,Universidad,Chapultepec,46
+825,17:36,Insurgentes Sur,Condesa,33
+826,06:44,Chapultepec,Tláhuac,58
+827,17:44,Tláhuac,Reforma Norte,15
+828,17:56,Coyoacán,Universidad,35
+829,06:49,Polanco,Chapultepec,46
+830,18:07,Insurgentes Sur,Centro Histórico,18
+831,18:48,Reforma Norte,Tláhuac,27
+832,07:17,Universidad,Santa Fe,32
+833,17:48,Centro Histórico,Condesa,38
+834,19:56,Chapultepec,Condesa,12
+835,08:40,Universidad,Santa Fe,5
+836,17:52,Tláhuac,Insurgentes Sur,30
+837,07:07,Polanco,Chapultepec,27
+838,07:26,Tláhuac,Reforma Norte,8
+839,08:45,Universidad,Reforma Norte,59
+840,07:20,Tláhuac,Centro Histórico,19
+841,20:00,Santa Fe,Insurgentes Sur,57
+842,06:30,Reforma Norte,Centro Histórico,54
+843,19:24,Chapultepec,Condesa,15
+844,19:45,Polanco,Reforma Norte,36
+845,18:51,Centro Histórico,Universidad,17
+846,19:27,Universidad,Coyoacán,18
+847,06:49,Chapultepec,Coyoacán,23
+848,08:04,Santa Fe,Centro Histórico,28
+849,08:34,Insurgentes Sur,Centro Histórico,38
+850,19:43,Coyoacán,Polanco,20
+851,19:56,Reforma Norte,Chapultepec,32
+852,19:09,Santa Fe,Condesa,27
+853,06:34,Santa Fe,Universidad,5
+854,19:54,Tláhuac,Universidad,57
+855,17:38,Universidad,Santa Fe,14
+856,19:35,Centro Histórico,Tláhuac,23
+857,18:22,Insurgentes Sur,Tláhuac,60
+858,17:57,Condesa,Santa Fe,15
+859,19:04,Santa Fe,Universidad,35
+860,17:06,Chapultepec,Condesa,50
+861,07:07,Centro Histórico,Tláhuac,41
+862,07:55,Universidad,Condesa,14
+863,08:11,Universidad,Reforma Norte,45
+864,19:02,Reforma Norte,Universidad,53
+865,19:09,Reforma Norte,Condesa,58
+866,17:30,Universidad,Tláhuac,40
+867,19:26,Santa Fe,Tláhuac,23
+868,08:34,Chapultepec,Polanco,47
+869,19:37,Santa Fe,Coyoacán,57
+870,17:45,Chapultepec,Reforma Norte,37
+871,17:01,Insurgentes Sur,Coyoacán,31
+872,18:34,Tláhuac,Polanco,59
+873,17:01,Reforma Norte,Chapultepec,27
+874,09:00,Universidad,Coyoacán,34
+875,17:56,Insurgentes Sur,Coyoacán,53
+876,19:28,Centro Histórico,Tláhuac,5
+877,07:01,Universidad,Coyoacán,26
+878,07:33,Tláhuac,Chapultepec,58
+879,19:58,Reforma Norte,Coyoacán,17
+880,18:27,Polanco,Coyoacán,41
+881,19:23,Condesa,Chapultepec,51
+882,06:28,Tláhuac,Insurgentes Sur,41
+883,07:01,Condesa,Tláhuac,56
+884,18:06,Centro Histórico,Universidad,52
+885,18:58,Chapultepec,Centro Histórico,47
+886,06:11,Universidad,Santa Fe,17
+887,18:12,Coyoacán,Tláhuac,27
+888,07:32,Tláhuac,Santa Fe,56
+889,07:31,Reforma Norte,Insurgentes Sur,54
+890,06:29,Universidad,Insurgentes Sur,39
+891,19:12,Coyoacán,Reforma Norte,22
+892,17:43,Tláhuac,Coyoacán,14
+893,08:21,Reforma Norte,Coyoacán,42
+894,19:42,Condesa,Centro Histórico,13
+895,18:19,Universidad,Centro Histórico,55
+896,08:40,Santa Fe,Universidad,31
+897,08:44,Universidad,Santa Fe,40
+898,08:47,Condesa,Polanco,47
+899,07:53,Coyoacán,Tláhuac,23
+900,17:24,Centro Histórico,Santa Fe,23
+901,06:57,Chapultepec,Tláhuac,7
+902,17:26,Condesa,Tláhuac,45
+903,17:31,Condesa,Polanco,7
+904,19:50,Coyoacán,Chapultepec,32
+905,07:29,Universidad,Insurgentes Sur,37
+906,17:03,Polanco,Santa Fe,18
+907,08:50,Condesa,Reforma Norte,39
+908,08:26,Insurgentes Sur,Tláhuac,44
+909,19:31,Coyoacán,Reforma Norte,51
+910,07:23,Chapultepec,Polanco,26
+911,08:37,Chapultepec,Centro Histórico,31
+912,18:00,Santa Fe,Reforma Norte,7
+913,17:59,Universidad,Tláhuac,5
+914,19:25,Tláhuac,Chapultepec,19
+915,06:41,Polanco,Tláhuac,32
+916,19:30,Insurgentes Sur,Condesa,24
+917,18:23,Polanco,Coyoacán,33
+918,07:55,Centro Histórico,Universidad,23
+919,17:34,Polanco,Universidad,43
+920,06:55,Santa Fe,Centro Histórico,45
+921,07:30,Santa Fe,Insurgentes Sur,24
+922,18:29,Universidad,Condesa,59
+923,06:13,Tláhuac,Reforma Norte,46
+924,19:53,Chapultepec,Universidad,55
+925,19:40,Insurgentes Sur,Reforma Norte,59
+926,19:31,Polanco,Centro Histórico,49
+927,06:28,Condesa,Chapultepec,59
+928,07:15,Universidad,Centro Histórico,44
+929,18:02,Condesa,Universidad,20
+930,19:38,Condesa,Centro Histórico,59
+931,19:37,Reforma Norte,Centro Histórico,58
+932,07:11,Reforma Norte,Santa Fe,55
+933,19:53,Centro Histórico,Tláhuac,36
+934,06:47,Reforma Norte,Polanco,9
+935,17:11,Coyoacán,Santa Fe,60
+936,19:03,Universidad,Insurgentes Sur,58
+937,06:26,Universidad,Santa Fe,46
+938,06:52,Chapultepec,Reforma Norte,47
+939,17:26,Santa Fe,Coyoacán,33
+940,17:57,Centro Histórico,Coyoacán,42
+941,19:27,Condesa,Coyoacán,10
+942,08:36,Condesa,Coyoacán,40
+943,18:51,Coyoacán,Condesa,8
+944,06:51,Tláhuac,Polanco,53
+945,17:57,Condesa,Universidad,47
+946,06:15,Santa Fe,Tláhuac,55
+947,08:06,Tláhuac,Chapultepec,41
+948,18:40,Santa Fe,Tláhuac,45
+949,07:29,Tláhuac,Condesa,32
+950,18:00,Polanco,Tláhuac,38
+951,17:52,Santa Fe,Centro Histórico,37
+952,08:04,Centro Histórico,Chapultepec,6
+953,18:00,Coyoacán,Condesa,31
+954,17:26,Polanco,Tláhuac,24
+955,06:35,Chapultepec,Reforma Norte,24
+956,07:21,Centro Histórico,Reforma Norte,58
+957,19:26,Universidad,Tláhuac,40
+958,08:07,Tláhuac,Centro Histórico,48
+959,08:48,Universidad,Chapultepec,54
+960,19:34,Insurgentes Sur,Condesa,58
+961,19:02,Polanco,Universidad,12
+962,19:26,Polanco,Chapultepec,6
+963,18:09,Universidad,Chapultepec,17
+964,06:12,Coyoacán,Centro Histórico,31
+965,07:12,Insurgentes Sur,Tláhuac,38
+966,07:42,Condesa,Universidad,7
+967,19:23,Polanco,Insurgentes Sur,39
+968,18:01,Centro Histórico,Chapultepec,41
+969,18:39,Centro Histórico,Santa Fe,60
+970,06:23,Insurgentes Sur,Chapultepec,15
+971,18:42,Chapultepec,Centro Histórico,5
+972,08:56,Coyoacán,Santa Fe,48
+973,06:03,Insurgentes Sur,Polanco,32
+974,19:12,Insurgentes Sur,Universidad,45
+975,18:51,Coyoacán,Tláhuac,27
+976,17:11,Coyoacán,Universidad,26
+977,07:12,Centro Histórico,Chapultepec,18
+978,07:29,Polanco,Coyoacán,28
+979,19:10,Polanco,Centro Histórico,26
+980,08:37,Condesa,Coyoacán,35
+981,06:23,Condesa,Santa Fe,50
+982,19:53,Insurgentes Sur,Tláhuac,54
+983,06:04,Centro Histórico,Universidad,59
+984,09:00,Santa Fe,Coyoacán,11
+985,17:28,Universidad,Condesa,38
+986,17:23,Polanco,Chapultepec,20
+987,17:27,Condesa,Chapultepec,59
+988,18:08,Centro Histórico,Santa Fe,36
+989,19:25,Universidad,Tláhuac,15
+990,08:21,Tláhuac,Coyoacán,56
+991,07:27,Tláhuac,Insurgentes Sur,55
+992,07:07,Insurgentes Sur,Polanco,23
+993,08:35,Universidad,Reforma Norte,19
+994,07:20,Santa Fe,Polanco,45
+995,08:22,Tláhuac,Universidad,11
+996,18:51,Reforma Norte,Coyoacán,23
+997,07:57,Coyoacán,Tláhuac,19
+998,07:17,Polanco,Condesa,19
+999,19:53,Polanco,Reforma Norte,9
+1000,07:21,Santa Fe,Tláhuac,50

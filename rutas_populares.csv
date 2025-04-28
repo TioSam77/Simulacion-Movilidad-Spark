@@ -1,0 +1,91 @@
+estacion_origen,estacion_destino,count
+Tláhuac,Universidad,17
+Coyoacán,Tláhuac,16
+Centro Histórico,Tláhuac,15
+Tláhuac,Chapultepec,15
+Universidad,Reforma Norte,14
+Tláhuac,Reforma Norte,14
+Polanco,Reforma Norte,14
+Condesa,Universidad,13
+Santa Fe,Tláhuac,13
+Condesa,Polanco,12
+Santa Fe,Reforma Norte,12
+Centro Histórico,Chapultepec,12
+Chapultepec,Coyoacán,12
+Santa Fe,Coyoacán,12
+Condesa,Coyoacán,12
+Santa Fe,Centro Histórico,12
+Centro Histórico,Universidad,12
+Insurgentes Sur,Centro Histórico,12
+Universidad,Coyoacán,12
+Universidad,Tláhuac,11
+Condesa,Reforma Norte,11
+Insurgentes Sur,Coyoacán,11
+Insurgentes Sur,Universidad,11
+Reforma Norte,Insurgentes Sur,11
+Tláhuac,Condesa,11
+Santa Fe,Universidad,11
+Insurgentes Sur,Polanco,11
+Tláhuac,Polanco,11
+Polanco,Tláhuac,11
+Reforma Norte,Universidad,10
+Tláhuac,Santa Fe,10
+Insurgentes Sur,Condesa,10
+Condesa,Tláhuac,10
+Reforma Norte,Coyoacán,10
+Condesa,Chapultepec,10
+Polanco,Chapultepec,10
+Chapultepec,Universidad,10
+Coyoacán,Condesa,10
+Centro Histórico,Coyoacán,9
+Centro Histórico,Polanco,9
+Universidad,Insurgentes Sur,9
+Universidad,Santa Fe,9
+Condesa,Insurgentes Sur,9
+Chapultepec,Santa Fe,9
+Santa Fe,Insurgentes Sur,9
+Polanco,Coyoacán,9
+Universidad,Chapultepec,9
+Chapultepec,Condesa,9
+Chapultepec,Reforma Norte,9
+Polanco,Santa Fe,9
+Reforma Norte,Tláhuac,8
+Chapultepec,Polanco,8
+Coyoacán,Insurgentes Sur,8
+Universidad,Condesa,8
+Centro Histórico,Condesa,8
+Polanco,Centro Histórico,8
+Insurgentes Sur,Tláhuac,8
+Coyoacán,Santa Fe,7
+Reforma Norte,Chapultepec,7
+Condesa,Santa Fe,7
+Insurgentes Sur,Chapultepec,7
+Santa Fe,Condesa,7
+Centro Histórico,Santa Fe,7
+Chapultepec,Centro Histórico,7
+Coyoacán,Chapultepec,7
+Tláhuac,Centro Histórico,7
+Universidad,Centro Histórico,7
+Reforma Norte,Centro Histórico,7
+Condesa,Centro Histórico,7
+Tláhuac,Coyoacán,7
+Polanco,Universidad,7
+Coyoacán,Universidad,7
+Insurgentes Sur,Santa Fe,7
+Coyoacán,Polanco,6
+Reforma Norte,Polanco,6
+Polanco,Condesa,6
+Insurgentes Sur,Reforma Norte,6
+Centro Histórico,Insurgentes Sur,6
+Chapultepec,Insurgentes Sur,5
+Chapultepec,Tláhuac,5
+Reforma Norte,Condesa,5
+Polanco,Insurgentes Sur,5
+Tláhuac,Insurgentes Sur,5
+Centro Histórico,Reforma Norte,5
+Coyoacán,Reforma Norte,5
+Universidad,Polanco,4
+Coyoacán,Centro Histórico,4
+Santa Fe,Polanco,4
+Reforma Norte,Santa Fe,3
+Santa Fe,Chapultepec,2
